@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersrocess",
+        "uuid": 610844,
+        "checksum": "edxmej"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
